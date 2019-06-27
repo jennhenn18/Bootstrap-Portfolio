@@ -29,16 +29,12 @@ footer {
 
 /* Portfolio */
 
-.projects {
-    position: relative;
-    width: 300px;
-    overflow: auto;
-    margin: 20px 0 25px;
-    float: left;
+#leftMargin {
+    margin-left: 50%;
 }
 
-.projects:nth-child(even) {
-    margin-right: 40px;
+#topMargin {
+    margin-top: 20%;
 }
 
 h3 {
